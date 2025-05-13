@@ -41,7 +41,7 @@ info:
   app:
     name: "gatewayserver"
     description: "Eazy Bank Gateway Server Application"
-    version: "1.3.0"
+    version: "1.4.0"
 
 logging:
   level:
