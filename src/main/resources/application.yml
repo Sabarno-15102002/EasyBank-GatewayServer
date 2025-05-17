@@ -41,12 +41,12 @@ info:
   app:
     name: "gatewayserver"
     description: "Eazy Bank Gateway Server Application"
-    version: "1.4.0"
+    version: "1.5.0"
 
 logging:
   level:
     com:
-      eazybytes:
+      sabarnobiswas2002:
         gatewayserver: DEBUG
   pattern:
     level: "%5p [${spring.application.name},%X{trace_id},%X{span_id}]"
